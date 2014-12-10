@@ -1,10 +1,10 @@
 ---
-tags: intro, git, github, kids
+tags: intro, git, github, kids, foundations
 type: intro
 ---
 ### Unit Goals
 * Explain **what Git and GitHub are** and what they do
-* Use GitHub to **fork a repository, then clone it** locally (on your own computer)
+* Use Git to `add`, `commit`, and `push` a repository to GitHub
 
 ---
 ### Git 'Er Done

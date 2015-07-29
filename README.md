@@ -1,7 +1,4 @@
----
-tags: intro, git, github, kids, foundations
-type: intro
----
+
 ### Unit Goals
 * Explain **what Git and GitHub are** and what they do
 * Use Git to `add`, `commit`, and `push` a repository to GitHub
